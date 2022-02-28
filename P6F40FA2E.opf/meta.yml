@@ -1,0 +1,21 @@
+id: P6F40FA2E
+initial_creation_type: input
+source_metadata:
+  title: Abhidharma Series
+  language: bo
+  description: 'Texts related to Abhidharma (chos mngon pa), the scholastic elaboration
+    of the basic doctrine of the sūtras which includes elements of phenomenology,
+    cosmology, psychology and metaphysics:'
+  volume:
+    077e3a623ca74dc0887d853f90b01f4e:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      parent: Abhidharmakośa
+    7e38498f76cb42b5b34943c650a1b64f:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      parent: Biography
+    a3ef5a07b51f4b44b4c8a60dd3a361e0:
+      title: 'The Sun that Causes the Lotus of Intelligence to Bloom: In Praise of
+        the Lineage of Gurus for the Noble Abhidharma'
+      parent: Praise
+created_at: '2022-03-01T02:28:07.486806'
+last_modified_at: '2022-03-01T02:28:07.486809'
